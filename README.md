@@ -10,7 +10,7 @@ Breast cancer is the most common type of cancer. It is cancer that develops from
 <h2> Results and Accuracy </h2>
 
 <p> The best performing models were the K-nearest neighbour and Random forest model  
-<p> A <strong> ACCURACY SCORE</strong> of about 91% was achieved.</p>
+<p> An <strong> ACCURACY SCORE</strong> of about 91% was achieved.</p>
 
 <p> Further test can be carried out on same dataset 
 to improve on the accuracy </p> 
